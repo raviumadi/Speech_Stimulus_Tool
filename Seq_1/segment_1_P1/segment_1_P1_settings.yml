@@ -1,0 +1,6 @@
+# Speech stimulus processing settings
+fade_shape: Raised cosine
+fade_duration_ms: 25.000
+band_low_Hz: 20.000
+band_high_Hz: 12000.000
+freqnorm_ref_Hz: 1000.000
