@@ -2,6 +2,8 @@
 
 The **Speech Stimulus Tool** is an interactive MATLAB-based GUI for preparing, inspecting, and processing audio segments for behavioural and psychophysical experiments. It provides an integrated workflow for loading/recording speech, selecting time segments, applying acoustic manipulations, and exporting stimuli together with plots and metadata.
 
+Run `speechStimulusTool` from the directory in Matlab.
+
 ![](doc/tool.png)
 
 
